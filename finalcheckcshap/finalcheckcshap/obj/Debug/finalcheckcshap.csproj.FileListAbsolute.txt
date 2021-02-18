@@ -1,0 +1,12 @@
+C:\F\finalcheckcshap\finalcheckcshap\obj\Debug\finalcheckcshap.csprojAssemblyReference.cache
+C:\F\finalcheckcshap\finalcheckcshap\obj\Debug\finalcheckcshap.csproj.CoreCompileInputs.cache
+C:\F\finalcheckcshap\finalcheckcshap\bin\Debug\finalcheckcshap.exe.config
+C:\F\finalcheckcshap\finalcheckcshap\bin\Debug\finalcheckcshap.exe
+C:\F\finalcheckcshap\finalcheckcshap\bin\Debug\finalcheckcshap.pdb
+C:\F\finalcheckcshap\finalcheckcshap\bin\Debug\Com.Cognizant.MovieCruiser.Dao.dll
+C:\F\finalcheckcshap\finalcheckcshap\bin\Debug\Com.Cognizant.MovieCruiser.Model.dll
+C:\F\finalcheckcshap\finalcheckcshap\bin\Debug\Com.Cognizant.MovieCruiser.Dao.pdb
+C:\F\finalcheckcshap\finalcheckcshap\bin\Debug\Com.Cognizant.MovieCruiser.Model.pdb
+C:\F\finalcheckcshap\finalcheckcshap\obj\Debug\finalcheckcshap.csproj.CopyComplete
+C:\F\finalcheckcshap\finalcheckcshap\obj\Debug\finalcheckcshap.exe
+C:\F\finalcheckcshap\finalcheckcshap\obj\Debug\finalcheckcshap.pdb
